@@ -11,7 +11,7 @@ It uses **Demucs** to isolate vocals and **OpenAI Whisper** for word-level trans
 *   **🧠 AI Power**:
     *   **Demucs**: Automatically separates vocals from the instrumental.
     *   **Whisper**: Generates precise, word-level timestamps.
-*   **🎨 "CapCut" Style UI**:
+*   **🎨 Pro Video Editor Style UI**:
     *   Dark Mode interface.
     *   Split-screen layout (Tools on left, Preview on right).
     *   **Auto-Color Magic**: Analyzes your background image and suggests the best text colors (Gold/White vs Red/Black) for readability.
