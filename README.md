@@ -1,24 +1,24 @@
 # 🎬 GenLyrics Studio
 
-A powerful, local AI tool that generates viral-style lyrics videos from any song.
-It uses **Demucs** to isolate vocals and **OpenAI Whisper** for word-level transcription, wrapping it all in a sleek **Streamlit** GUI.
+A local AI tool that generates lyrics videos from any song.
+It uses **Demucs** to isolate vocals and **OpenAI Whisper** for word-level transcription, wrapping it all in a **Streamlit** GUI.
 
 ![App Screenshot](default_bg_16_9.png)
 
 ## ✨ Features
 
 *   **🎵 Source Flexibility**: Paste a **YouTube Link** or **Upload** your own MP3/WAV.
-*   **🧠 AI Power**:
-    *   **Demucs**: Automatically separates vocals from the instrumental.
-    *   **Whisper**: Generates precise, word-level timestamps.
-*   **🎨 Pro Video Editor Style UI**:
+*   **🧠 AI Processing**:
+    *   **Demucs**: Separates vocals from the instrumental.
+    *   **Whisper**: Generates word-level timestamps.
+*   **🎨 Split-Screen UI**:
     *   Dark Mode interface.
-    *   Split-screen layout (Tools on left, Preview on right).
-    *   **Auto-Color Magic**: Analyzes your background image and suggests the best text colors (Gold/White vs Red/Black) for readability.
+    *   Tools on left, Preview on right.
+    *   **Auto-Color Detection**: Analyzes your background image and suggests text colors (Gold/White vs Red/Black) for readability.
 *   **✍️ Full Control**:
-    *   **Lyrics Editor**: Fix typos and timing in a spreadsheet-like view.
+    *   **Lyrics Editor**: Edit text and timing in a table view.
     *   **Design**: Choose from Google Fonts and custom backgrounds.
-*   **⚡️ Fast Render**: Optimized rendering pipeline with 1080p output.
+*   **⚡️ Efficient Rendering**: Outputs 1080p video.
 
 ## 🛠️ Installation
 
