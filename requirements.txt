@@ -1,0 +1,9 @@
+streamlit
+yt-dlp
+openai-whisper
+demucs
+Pillow
+opencv-python-headless
+numpy
+requests
+watchdog
